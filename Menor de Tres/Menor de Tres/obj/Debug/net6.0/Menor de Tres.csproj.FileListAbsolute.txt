@@ -1,0 +1,15 @@
+C:\Temp\ws-vs23\Menor de Tres\Menor de Tres\bin\Debug\net6.0\Menor de Tres.exe
+C:\Temp\ws-vs23\Menor de Tres\Menor de Tres\bin\Debug\net6.0\Menor de Tres.deps.json
+C:\Temp\ws-vs23\Menor de Tres\Menor de Tres\bin\Debug\net6.0\Menor de Tres.runtimeconfig.json
+C:\Temp\ws-vs23\Menor de Tres\Menor de Tres\bin\Debug\net6.0\Menor de Tres.dll
+C:\Temp\ws-vs23\Menor de Tres\Menor de Tres\bin\Debug\net6.0\Menor de Tres.pdb
+C:\Temp\ws-vs23\Menor de Tres\Menor de Tres\obj\Debug\net6.0\Menor de Tres.csproj.AssemblyReference.cache
+C:\Temp\ws-vs23\Menor de Tres\Menor de Tres\obj\Debug\net6.0\Menor de Tres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ws-vs23\Menor de Tres\Menor de Tres\obj\Debug\net6.0\Menor de Tres.AssemblyInfoInputs.cache
+C:\Temp\ws-vs23\Menor de Tres\Menor de Tres\obj\Debug\net6.0\Menor de Tres.AssemblyInfo.cs
+C:\Temp\ws-vs23\Menor de Tres\Menor de Tres\obj\Debug\net6.0\Menor de Tres.csproj.CoreCompileInputs.cache
+C:\Temp\ws-vs23\Menor de Tres\Menor de Tres\obj\Debug\net6.0\Menor de Tres.dll
+C:\Temp\ws-vs23\Menor de Tres\Menor de Tres\obj\Debug\net6.0\refint\Menor de Tres.dll
+C:\Temp\ws-vs23\Menor de Tres\Menor de Tres\obj\Debug\net6.0\Menor de Tres.pdb
+C:\Temp\ws-vs23\Menor de Tres\Menor de Tres\obj\Debug\net6.0\Menor de Tres.genruntimeconfig.cache
+C:\Temp\ws-vs23\Menor de Tres\Menor de Tres\obj\Debug\net6.0\ref\Menor de Tres.dll
